@@ -1,4 +1,4 @@
 class Character < ActiveRecord::Base
-  attr_accessible :class, :level, :name, :user_id
-  has_a :user
+  attr_accessible :class_name, :level, :name
+  belongs_to :user
 end
