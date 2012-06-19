@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-TheChang::Application.config.secret_token = 'acbb080f7a54baa226b7303c8737c237b6812dff3f6b7a3330bc22ec8894aeb942e811ef6f80d05816878b2448dc64cf4190dca8f7d011d4ab780c21e8e1640b'
+TheChang::Application.config.secret_token = '822335a5aff6b48af5dd8c698775d4dd5fd1ddcade05a0d0b85458bb5361aad440b43c01c2171de657054be62fb9ae892a85d9908f65f5c468a6af513bc611c0'
