@@ -1,4 +1,6 @@
 TheChang::Application.routes.draw do
+  resources :stores
+
   resources :fruits
 
   # The priority is based upon order of creation:
